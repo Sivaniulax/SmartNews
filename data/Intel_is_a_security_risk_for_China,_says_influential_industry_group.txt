@@ -1,0 +1,37 @@
+Title: Intel is a security risk for China, says influential industry group
+URL: https://www.cnn.com/2024/10/16/tech/china-intel-security-review-intl-hnk/index.html
+Published Date: 2024-10-16 00:00:00
+Content:
+Beijing Reuters —
+
+Intel products sold in China should be subject to a security review, the Cybersecurity Association of China (CSAC) said on Wednesday, alleging the US chipmaker has “constantly harmed” the country’s national security and interests.
+
+While CSAC is an industry group rather than a government body, it has close ties to the Chinese state and the raft of accusations against Intel (INTC), published in a long post on its official WeChat account, could trigger a security review from China’s powerful cyberspace regulator, the Cyberspace Administration of China (CAC).
+
+Intel’s China unit said on Thursday it has always prioritized product safety and quality.
+
+“We will maintain communication with the relevant authorities, clarify any concerns, and reaffirm our commitment to product safety and quality,” the company said in a statement on its official WeChat account.
+
+The CAC did not immediately respond to a request for comment. Intel’s shares had closed 1.5% lower on Wednesday amid a broad tech sell-off following a disappointing update from chip equipment maker ASML (ASML).
+
+“It is recommended that a network security review is initiated on the products Intel sells in China, so as to effectively safeguard China’s national security and the legitimate rights and interests of Chinese consumers,” CSAC said.
+
+Last year, CAC barred domestic operators of key infrastructure from buying products made by US memory chipmaker Micron Technology Inc (MU) after deeming the company’s products as having failed its network security review.
+
+A similar security review on Intel products could negatively impact the company’s revenues, over a quarter of which came from China last year.
+
+Backdoor allegations
+
+The allegations come at a time when China is dealing with a US-led effort to restrict its access to crucial chipmaking equipment and components, in what Washington calls a bid to halt the modernization of China’s military.
+
+“Relationships between the US and China are fragile and the more talk about restrictions on trade and tariffs, the more likely the other side will retaliate in a tit-for-tat situation,” said Dan Coatsworth, investment analyst at AJ Bell.
+
+CSAC in its post accuses Intel chips, including Xeon processors used for artificial intelligence tasks, of carrying several vulnerabilities, concluding that Intel “has major defects when it comes to product quality, security management, indicating that it is extremely irresponsible attitude towards customers.”
+
+The industry group goes on to state that operating systems embedded in all Intel processors are vulnerable to backdoors created by the US National Security Agency (NSA).
+
+“This poses a great security threat to the critical information infrastructures of countries all over the world, including China … the use of Intel products poses a serious risk to national security,” CSAC said.
+
+A ban, even if temporary, on Intel products could further tighten the supply of AI chips in the Chinese market, which has struggled to find viable alternatives to cutting-edge products from Nvidia (NVDA) which dominate globally but are now banned from export to China.
+
+Intel this year secured orders for its Xeon processors from several Chinese state-linked agencies for use in AI work, according to a Reuters review of public tenders.

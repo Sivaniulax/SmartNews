@@ -1,0 +1,65 @@
+Title: Elon Musk unveils his ‘Cybercab’ robotaxi
+URL: https://www.cnn.com/2024/10/10/business/elon-musk-tesla-robotaxis/index.html
+Published Date: 2024-10-10 00:00:00
+Content:
+New York CNN —
+
+Tesla CEO Elon Musk unveiled on Thursday his vision of a “a fun, exciting future,” an “age of abundance” full of his company’s self-driving cars without steering wheels, parking lots turned into parks and robots that will walk among the population – that he once again promised would be available within a few years.
+
+Whether he can live up to these promises remains to be seen.
+
+Those plans, and the revelation of the designs for his robotaxis, came at a glitzy event in California, full of the kind of hype that has built Tesla a dedicated fan base for its electric vehicles. The event featured models of the robotaxi as well as a Robovan, a driverless vehicle designed to carry a larger group of people or items.
+
+The designs were heavy on a metallic, shiny sci-fi aesthetic of the future. Musk himself even referenced the classic science fiction movie “Blade Runner,” although he said he wanted his version of the coming years to be cheerier than that dystopian noir film.
+
+Musk is famous for promising near-term targets that take years or more to reach. He had predicted five years ago that his fleet of robotaxis were only a year away. During his presentation at the Warner Bros. studio lot late Thursday, even he admitted: “I tend to be a little optimistic with time frames.”
+
+Investors appeared unimpressed, or at least doubtful, given the company’s track record of failing to hit earlier timelines for true self-driving. Shares of Tesla (TSLA) were down more than 8% in late afternoon trading Friday.
+
+The event unveiling these products, which was livestreamed to millions of viewers on his social media platform X, began 53 minutes late.
+
+But the delay seemed to matter little to the in-person crowd waiting for the chance to ride in the 50 self-driving vehicles that were cruising around the studio lot. They continued to cheer Musk throughout his relatively short 20-minute presentation.
+
+Tesla has long offered what it calls Full Self-Driving or FSD, currently priced at $8,000, as an option on its cars. But despite its name, Tesla says drivers need to continue to sit in the driver’s seat, ready to take over control of the vehicle, even when in FSD mode.
+
+Musk said Thursday that Teslas with FSD would be able to operate wherever state regulators would allow without human intervention, predicting that would occur in California and Texas by next year. And he also unveiled the Cybercab, a vehicle without steering wheel or accelerator or brake pedals which is specifically designed to carry passengers without a driver present, which he said should be in production by 2026.
+
+Reuters
+
+“It’ll be like sitting in a comfortable little lounge,” he said. “Yeah, it’s going to be awesome.”
+
+He said the Robocab, unlike other electric vehicles, would have no plug but would be charged by driving over a charging plate. And he also showed a larger vehicle that he said could carry up to 20 passengers or goods, which he called a “Robovan,” although he gave no timeframe for the introduction of that vehicle.
+
+Musk said that in addition to Tesla selling rides in its own fleet of self-driving robotaxis, the robotaxis would lower the cost of ownership for Tesla buyers because they’ll be able to rent their cars out for rides when not driving themselves by using Tesla’s service to arrange the rides.
+
+The planned robotaxi service would not only compete with services from Uber and Lyft that use human drivers but with other driverless services now being tested by companies like Google’s Waymo. In fact, those other driverless robotaxi services are already well ahead of Tesla’s planned offering, said tech journalist and CNN contributor Kara Swisher, who called the Tesla robovan design “a lovely toaster on wheels.”
+
+“I ride the Waymo (service) every time I go into San Francisco for a long time now,” Swisher told CNN late Thursday after the event. “They’ve driven millions of miles. Elon has just been talking about it. I would like to see him deploy something on the road. I’m very excited about autonomous vehicles. But he’s been promising them forever while others have delivered.”
+
+“This is typical of him,” she said. “He makes a giant announcement, and then you see nothing. He’s done amazing things, and I think that’s part of this. But in this case, there is stuff on the road right now that’s working by Google and by Amazon and others.”
+
+‘Overly optimistic’
+
+Musk has insisted that the company’s data shows that the current version of FSD that requires a driver to supervise the ride is already safer than cars driven by humans. But others who have tested that feature question whether that is true. One independent testing service, AMCI Testing, found that drivers needed to take control every 13 miles on average.
+
+This is certainly not the first time that Musk has laid out ambitious time frames for his plans for self-driving cars. In a July call with investors, Musk said he expected to have “unsupervised (driving) possibly by the end of this year,” adding “I would be shocked if we cannot do it next year.”
+
+Tesla CEO and X owner Elon Musk rides in Tesla's robotaxi at an unveilling event in Los Angeles, California, on October 10, 2024 in this still image taken from video. Tesla/Handout/Reuters
+
+But he also conceded, “obviously my predictions on this have been overly optimistic in the past.”
+
+“I’m the boy who cried FSD. But I think we’ll be better than humans by the end of this year,” he said in a call with investors in July 2023, before adding: “I’ve been wrong in the past. I may be wrong this time.”
+
+And even some analysts who believe that Tesla will eventually come up with the technology needed to have driverless vehicles carrying passengers believe that achievement is at least several years into the future.
+
+“We’re looking at disengagements at 3% of miles driven,” said Gene Munster, managing partner at Deepwater Asset Management, about the number of times that a human driver needs to take control, in an interview with CNN earlier this week.
+
+“While 97% of the way there sounds close, it’s not even close. It has to be well above 99%. And to go from 95 or 97% to 99% is really hard. And then there’s the question of how many 9’s the regulators will want to see. Is it 99.9%, 99.999%?” he added.
+
+“I think it’ll take two years to get the technology right,” Munster said. “And two to three more years to get the needed regulatory approval.”
+
+As for Musk’s promise that the Cybercab would be available within two years, Munster pointed out that the Cybertruck pickup took about 48 months from reveal to production, and some other vehicles, including an electric semi truck, have gone more than six years since their reveal and are still not in production.
+
+“Looking at the more recent history of product announcements and measuring the time it took to ramp production should remind investors that patience is a virtue,” he said.
+
+This story has been updated with additional context and developments.
